@@ -1,0 +1,66 @@
+/*
+Adds a nice to shadow to pretty much any component 
+*/
+.bar-shadow {
+  box-shadow: 0 4px 4px -2px rgba(0, 0, 0, .3);
+}
+
+.cast-rod-button {
+  border: 0;
+  width: 60%;
+  border-radius: 10px;
+}
+
+.sell-button-group {
+  margin-left: auto;
+  margin-right: 0;
+}
+
+.sell-all-button {
+  display: inline-block;
+  border: 0;
+  margin: 0;
+  padding: 8px;
+  border-radius: 0 10px 10px 0;
+}
+
+.sell-one-button {
+  display: inline-block;
+  border: 0;
+  margin: 0;
+  border-radius: 10px 0 0 10px;
+  padding: 8px;
+
+}
+
+.sell-fish-card {
+  margin: 5px;
+  padding: 0px;
+  border-radius: 8px;
+  box-shadow: 0 2px 3px -1px rgba(0, 0, 0, .15);
+}
+
+.fish-entry {
+  margin: 0;
+  padding: 0;
+  border: .5px solid rgba(255, 255, 255, 0.062);
+  background: #8484841d;
+  margin-bottom: 2px;
+}
+
+.inventory-text {
+  margin: 2px;
+  padding: 0;
+}
+
+.stat-bar {
+}
+
+.stats-text {
+  margin: 2px;
+}
+
+.divider {
+  border: 1px solid #b0b0b037;
+  margin-bottom: 4px;
+}
